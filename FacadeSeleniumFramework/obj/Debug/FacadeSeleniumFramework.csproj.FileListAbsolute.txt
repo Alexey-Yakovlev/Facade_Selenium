@@ -1,0 +1,22 @@
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\FacadeSeleniumFramework.dll
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\FacadeSeleniumFramework.pdb
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\nunit.framework.dll
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\WebDriver.dll
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\WebDriver.Support.dll
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\nunit.framework.xml
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\WebDriver.xml
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\bin\Debug\WebDriver.Support.xml
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\obj\Debug\FacadeSeleniumFramework.dll
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\obj\Debug\FacadeSeleniumFramework.pdb
+D:\C#\Study\FacadeSeleniumFramework\FacadeSeleniumFramework\obj\Debug\FacadeSeleniumFramework.csprojResolveAssemblyReference.cache
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\obj\Debug\FacadeSeleniumFramework.dll
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\obj\Debug\FacadeSeleniumFramework.pdb
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\FacadeSeleniumFramework.dll
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\FacadeSeleniumFramework.pdb
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\nunit.framework.dll
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\WebDriver.dll
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\WebDriver.Support.dll
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\nunit.framework.xml
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\WebDriver.xml
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\bin\Debug\WebDriver.Support.xml
+D:\C#\Study\FacadeSeleniumFramework - Copy - Copy\FacadeSeleniumFramework\obj\Debug\FacadeSeleniumFramework.csprojResolveAssemblyReference.cache
